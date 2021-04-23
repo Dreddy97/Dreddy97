@@ -1,4 +1,4 @@
-![alt text] (headerGithub.jpg)
+[<img src = "https://github.com/Dreddy97/Dreddy97/blob/main/headerGithub.jpg" />]
 
 ### Reno Davids says to you "Hello There", how do you reply ?
 ### a) "Hey there how are you" ? b) "Damn boi what's with that wack profile picture" c) "Ah General Kenobi hahahaha you are a bold one"
