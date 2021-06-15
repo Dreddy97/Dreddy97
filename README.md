@@ -8,7 +8,7 @@
 ### 🧠One thing that I would stand out from the rest of the Software Developers is my problem solving skills and perseverance to find solutions in the most efficient way possible.
 ### 🔥In general I am an introverted person but I am an extrovert when it comes to group projects. I don't like to sit back and be quite when developing software.
 ### Linkedin: https://www.linkedin.com/in/reno-davids-661009210/
-### Email: renodavids8@gmail.com
+### Email: rdavids963@outlook.com
 
 <!--
 **Dreddy97/Dreddy97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
